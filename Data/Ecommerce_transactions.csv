@@ -1,0 +1,601 @@
+transaction_id,date,customer_id,product,price,quantity,coupon_code,shipping_city
+T0333,2025-01-03,C0089,Yoga Mat,-10.0,1,,Denver
+T0226,2025-01-04,C0141,Headphones,75.99,0,,Philadelphia
+T0051,2025-01-05,C0110,Bluetooth Speaker,49.95,2,SAVE10,  Boston  
+T0402,not a date,C0108,Backpack,59.0,1,,Boston
+T0453,2025-01-05,C0239,,35.0,1,,Houston
+T0478,2025-01-07,C0122,Headphones,75.99,2,FREESHIP,Houston
+T0012,2025-01-08,C0218,Phone Case,18.36,2,,Dallas
+T0225,2025-01-08,C0173,T-Shirt,20.9,4,,Nashville
+T0312,2025-01-08,C0192,T-Shirt,22.0,1,,Denver
+T0475,2025-01-08,C0205,USB-C Cable,12.5,2,,Nashville
+T0028,2025-01-11,C0076,Running Shoes,89.0,2,FREESHIP,Minneapolis
+T0385,2025-01-11,C0128,Phone Case,16.62,2,,Los Angeles
+T0537,2025-01-11,C0163,Wireless Mouse,24.99,2,,Austin
+T0410,2025-01-13,C0019,Phone Case,16.62,3,,Atlanta
+T0002,2025-01-14,C0206,Phone Case,18.36,1,WELCOME15,San Antonio
+T0072,2025-01-15,C0108,Water Bottle,19.99,1,,Miami
+T0088,2025-01-15,C0180,USB-C Cable,12.5,1,FREESHIP,Portland
+T0113,2025-01-15,C0212,Water Bottle,19.99,1,,Phoenix
+T0032,2025-01-17,C0217,Backpack,64.9,1,,Boston
+T0394,2025-01-18,C0173,T-Shirt,22.0,1,,San Jose
+T0256,2025-01-19,C0117,Yoga Mat,32.77,2,,Portland
+T0588,2025-01-19,C0222,USB-C Cable,11.88,1,,Charlotte
+T0442,2025-01-20,C0217,Coffee Mug,15.35,1,,Portland
+T0328,2025-01-21,C0039,Sunglasses,35.0,2,,Portland
+T0539,2025-01-21,C0136,USB-C Cable,13.12,2,,New York
+T0550,2025-01-22,C0019,Notebook Set,15.75,2,,San Diego
+T0308,2025-01-24,C0152,Portable Charger,42.75,1,,San Jose
+T0313,2025-01-24,C0192,Wireless Mouse,26.24,2,,Dallas
+T0412,2025-01-24,C0085,Keyboard,52.24,1,,Seattle
+T0438,2025-01-25,C0231,Keyboard,54.99,1,,Los Angeles
+T0314,2025-01-26,C0073,Headphones,79.99,4,SAVE10,Denver
+T0423,2025-01-26,C0234,Bluetooth Speaker,52.45,1,,Atlanta
+T0220,2025-01-27,C0057,Travel Organizer,27.5,1,WELCOME15,Phoenix
+T0053,2025-01-28,C0183,Travel Organizer,27.5,1,FREESHIP,San Jose
+T0361,2025-01-28,C0190,Yoga Mat,32.77,1,SAVE10,San Diego
+T0584,2025-01-28,C0115,Portable Charger,45.0,1,,Houston
+T0169,2025-01-29,C0096,Yoga Mat,34.5,1,WELCOME15,Houston
+T0379,2025-01-29,C0102,Keyboard,54.99,1,SUMMER20,San Jose
+T0506,2025-01-29,C0184,Coffee Mug,14.65,1,,New York
+T0353,2025-01-30,C0176,Portable Charger,49.5,2,,Denver
+T0413,2025-01-30,C0113,Bluetooth Speaker,49.95,2,,Denver
+T0480,2025-01-30,C0085,Notebook Set,15.0,1,,Denver
+T0466,2025-01-31,C0091,Desk Lamp,38.0,2,,San Jose
+T0141,2025-02-01,C0200,Keyboard,60.49,2,,Minneapolis
+T0449,2025-02-03,C0211,Wireless Mouse,24.99,1,,Austin
+T0460,2025-02-03,C0210,Sunglasses,38.5,1,,Atlanta
+T0017,2025-02-05,C0166,Notebook Set,15.75,2,,Houston
+T0092,2025-02-05,C0187,Yoga Mat,34.5,1,SUMMER20,Houston
+T0357,2025-02-07,C0107,Keyboard,60.49,2,,Denver
+T0009,2025-02-08,C0106,Travel Organizer,27.5,1,,San Diego
+T0203,2025-02-08,C0132,Coffee Mug,13.95,2,,Portland
+T0210,2025-02-08,C0055,Backpack,56.05,1,,Houston
+T0326,2025-02-08,C0031,Coffee Mug,14.65,2,,Boston
+T0520,2025-02-08,C0136,USB-C Cable,11.88,1,,San Diego
+T0099,2025-02-09,C0070,USB-C Cable,13.12,2,,New York
+T0173,2025-02-09,C0196,Portable Charger,47.25,3,,San Antonio
+T0390,2025-02-09,C0218,Wireless Mouse,24.99,3,FREESHIP,San Diego
+T0101,2025-02-10,C0029,Portable Charger,45.0,1,,Charlotte
+T0171,2025-02-10,C0239,Phone Case,17.49,2,SUMMER20,Philadelphia
+T0297,2025-02-10,C0104,Coffee Mug,13.95,2,,Phoenix
+T0295,2025-02-11,C0098,Notebook Set,14.25,4,SAVE10,Minneapolis
+T0298,2025-02-11,C0022,Keyboard,57.74,1,SUMMER20,San Antonio
+T0493,2025-02-11,C0234,Laptop Stand,44.1,1,,Portland
+T0205,2025-02-12,C0236,Phone Case,17.49,2,,Portland
+T0243,2025-02-13,C0042,T-Shirt,22.0,1,,Los Angeles
+T0486,2025-02-13,C0003,Bluetooth Speaker,54.95,5,,Houston
+T0339,2025-02-14,C0131,Desk Lamp,38.0,1,,Charlotte
+T0422,2025-02-14,C0235,Bluetooth Speaker,49.95,2,,Denver
+T0581,2025-02-15,C0103,Notebook Set,15.0,1,SAVE10,Minneapolis
+T0134,2025-02-16,C0210,Sunglasses,35.0,3,,New York
+T0228,2025-02-16,C0033,Headphones,79.99,3,,Austin
+T0063,2025-02-17,C0076,USB-C Cable,12.5,1,,Minneapolis
+T0116,2025-02-17,C0004,Headphones,79.99,1,,San Antonio
+T0163,2025-02-17,C0120,Yoga Mat,34.5,2,SAVE10,San Antonio
+T0296,2025-02-17,C0115,T-Shirt,24.2,1,WELCOME15,Austin
+T0577,2025-02-17,C0179,Notebook Set,14.25,2,SAVE10,Dallas
+T0100,2025-02-18,C0205,Keyboard,57.74,3,WELCOME15,San Jose
+T0132,2025-02-18,C0139,Desk Lamp,39.9,2,,Houston
+T0140,2025-02-18,C0022,Laptop Stand,39.9,3,,Portland
+T0047,2025-02-19,C0239,Yoga Mat,36.23,2,,Los Angeles
+T0120,2025-02-19,C0089,Yoga Mat,37.95,1,SAVE10,Chicago
+T0050,2025-02-21,C0200,T-Shirt,20.9,2,,Miami
+T0060,2025-02-21,C0115,Keyboard,52.24,2,,Miami
+T0172,2025-02-21,C0200,Headphones,79.99,2,,Denver
+T0545,2025-02-21,C0135,Coffee Mug,13.95,2,,Charlotte
+T0562,2025-02-21,C0044,Desk Lamp,38.0,1,SAVE10,Seattle
+T0336,2025-02-22,C0051,USB-C Cable,11.88,4,,Atlanta
+T0559,2025-02-22,C0035,Phone Case,17.49,1,,Phoenix
+T0419,2025-02-24,C0006,Sunglasses,36.75,1,,Chicago
+T0233,2025-02-26,C0027,Backpack,64.9,1,,San Antonio
+T0124,2025-03-01,C0001,Laptop Stand,39.9,1,WELCOME15,San Jose
+T0284,2025-03-01,C0085,Phone Case,17.49,1,SAVE10,San Antonio
+T0374,2025-03-02,C0011,Water Bottle,21.99,1,,Seattle
+T0384,2025-03-03,C0116,Water Bottle,21.99,1,,Nashville
+T0576,2025-03-03,C0059,T-Shirt,24.2,3,,Houston
+T0136,2025-03-04,C0142,Water Bottle,18.99,1,,San Antonio
+T0291,2025-03-04,C0040,Notebook Set,15.0,1,,Philadelphia
+T0190,2025-03-05,C0170,Travel Organizer,27.5,1,FREESHIP,New York
+T0147,2025-03-06,C0045,USB-C Cable,13.12,1,,Phoenix
+T0446,2025-03-06,C0053,Water Bottle,19.99,2,SAVE10,Chicago
+T0523,2025-03-06,C0169,Running Shoes,93.45,2,,Minneapolis
+T0395,2025-03-07,C0188,Portable Charger,42.75,3,,Miami
+T0454,2025-03-08,C0129,Phone Case,16.62,1,,Atlanta
+T0595,2025-03-08,C0069,Bluetooth Speaker,47.45,1,,Miami
+T0553,2025-03-09,C0038,Backpack,59.0,1,,Atlanta
+T0062,2025-03-11,C0225,Water Bottle,20.99,2,,Nashville
+T0369,2025-03-11,C0131,Travel Organizer,30.25,2,FREESHIP,Portland
+T0087,2025-03-12,C0129,Water Bottle,20.99,1,,Charlotte
+T0283,2025-03-13,C0010,Laptop Stand,42.0,1,SAVE10,Denver
+T0408,2025-03-13,C0185,Yoga Mat,34.5,1,SAVE10,Boston
+T0018,2025-03-14,C0198,Desk Lamp,38.0,2,,Nashville
+T0029,2025-03-14,C0146,Backpack,64.9,1,,Austin
+T0229,2025-03-14,C0062,Laptop Stand,42.0,2,FREESHIP,San Diego
+T0286,2025-03-14,C0124,Yoga Mat,37.95,2,,Seattle
+T0507,2025-03-14,C0024,T-Shirt,22.0,3,SAVE10,San Jose
+T0074,2025-03-15,C0072,Portable Charger,45.0,1,,San Diego
+T0342,2025-03-15,C0076,Bluetooth Speaker,49.95,2,,Philadelphia
+T0490,2025-03-15,C0103,Desk Lamp,36.1,1,,Houston
+T0556,2025-03-16,C0156,Coffee Mug,15.35,1,WELCOME15,Seattle
+T0259,2025-03-17,C0070,Notebook Set,15.0,1,,Minneapolis
+T0056,2025-03-19,C0130,Coffee Mug,13.25,1,,Atlanta
+T0481,2025-03-19,C0026,Notebook Set,15.0,3,,Seattle
+T0161,2025-03-20,C0125,Portable Charger,45.0,1,,Charlotte
+T0455,2025-03-20,C0162,USB-C Cable,12.5,3,,San Antonio
+T0306,2025-03-21,C0001,Headphones,83.99,2,,Chicago
+T0010,2025-03-22,C0021,Portable Charger,45.0,2,SAVE10,Charlotte
+T0066,2025-03-23,C0044,Laptop Stand,42.0,2,,Philadelphia
+T0078,2025-03-23,C0116,Keyboard,54.99,2,SUMMER20,New York
+T0211,2025-03-23,C0108,Phone Case,17.49,1,,New York
+T0371,2025-03-23,C0063,Headphones,79.99,2,,San Jose
+T0200,2025-03-24,C0219,Headphones,79.99,1,,Austin
+T0262,2025-03-24,C0186,Backpack,61.95,1,,Miami
+T0521,2025-03-24,C0214,Phone Case,17.49,1,SAVE10,Minneapolis
+T0356,2025-03-25,C0186,Portable Charger,45.0,1,,Miami
+T0505,2025-03-25,C0209,Bluetooth Speaker,47.45,1,,Portland
+T0524,2025-03-25,C0098,Water Bottle,20.99,1,,Austin
+T0585,2025-03-26,C0017,Coffee Mug,13.95,1,,Phoenix
+T0085,2025-03-27,C0069,Keyboard,54.99,4,SAVE10,Nashville
+T0244,2025-03-27,C0190,T-Shirt,20.9,1,,Minneapolis
+T0552,2025-03-28,C0065,Portable Charger,45.0,3,,Seattle
+T0538,2025-03-29,C0021,Running Shoes,89.0,1,,San Jose
+T0462,2025-03-30,C0187,Yoga Mat,32.77,1,,Miami
+T0337,2025-03-31,C0013,Backpack,64.9,1,,Denver
+T0396,2025-04-01,C0143,Sunglasses,38.5,1,WELCOME15,Minneapolis
+T0425,2025-04-02,C0011,T-Shirt,22.0,1,FREESHIP,Los Angeles
+T0513,2025-04-02,C0043,Travel Organizer,27.5,1,WELCOME15,Portland
+T0398,2025-04-03,C0020,Running Shoes,89.0,1,,Philadelphia
+T0280,2025-04-04,C0138,Headphones,79.99,1,WELCOME15,San Diego
+T0519,2025-04-04,C0053,Desk Lamp,38.0,1,SAVE10,Charlotte
+T0354,2025-04-05,C0176,USB-C Cable,12.5,2,,Chicago
+T0247,2025-04-06,C0122,Headphones,79.99,2,,San Jose
+T0289,2025-04-07,C0228,Sunglasses,35.0,1,SAVE10,Los Angeles
+T0495,2025-04-07,C0087,Yoga Mat,34.5,1,,Miami
+T0121,2025-04-08,C0101,Desk Lamp,38.0,1,,Minneapolis
+T0332,2025-04-09,C0174,Yoga Mat,34.5,2,,Philadelphia
+T0039,2025-04-12,C0078,Travel Organizer,27.5,3,,Seattle
+T0208,2025-04-12,C0027,Running Shoes,84.55,3,,San Antonio
+T0258,2025-04-13,C0196,Keyboard,54.99,1,,Denver
+T0279,2025-04-14,C0055,Laptop Stand,46.2,1,,Seattle
+T0516,2025-04-14,C0200,Coffee Mug,13.95,1,,Portland
+T0370,2025-04-15,C0173,Travel Organizer,27.5,1,,Nashville
+T0590,2025-04-15,C0003,Travel Organizer,27.5,2,,Phoenix
+T0335,2025-04-16,C0061,Sunglasses,35.0,2,,Chicago
+T0035,2025-04-17,C0046,Coffee Mug,13.95,1,,San Antonio
+T0218,2025-04-17,C0133,Travel Organizer,27.5,1,,Houston
+T0561,2025-04-18,C0142,Coffee Mug,13.95,2,SAVE10,Denver
+T0594,2025-04-18,C0070,T-Shirt,20.9,1,,Miami
+T0016,2025-04-19,C0122,Coffee Mug,14.65,1,,Seattle
+T0043,2025-04-21,C0207,Sunglasses,38.5,3,,Chicago
+T0301,2025-04-21,C0033,USB-C Cable,11.88,1,,Denver
+T0386,2025-04-21,C0074,USB-C Cable,12.5,1,SUMMER20,Atlanta
+T0421,2025-04-21,C0011,Phone Case,17.49,4,,Seattle
+T0469,2025-04-21,C0236,Portable Charger,47.25,1,,Phoenix
+T0077,2025-04-22,C0137,Wireless Mouse,26.24,1,,New York
+T0363,2025-04-22,C0119,Wireless Mouse,24.99,5,WELCOME15,Los Angeles
+T0426,2025-04-22,C0106,Coffee Mug,13.95,2,WELCOME15,Charlotte
+T0482,2025-04-22,C0035,Laptop Stand,39.9,1,WELCOME15,San Diego
+T0571,2025-04-22,C0013,Desk Lamp,38.0,1,,Austin
+T0204,2025-04-23,C0070,Wireless Mouse,24.99,3,,San Diego
+T0574,2025-04-23,C0219,T-Shirt,22.0,3,,Seattle
+T0238,2025-04-24,C0074,Travel Organizer,30.25,1,,San Jose
+T0004,2025-04-26,C0008,Headphones,87.99,2,,New York
+T0154,2025-04-26,C0075,Water Bottle,19.99,2,FREESHIP,Minneapolis
+T0248,2025-04-26,C0153,Portable Charger,47.25,1,SUMMER20,San Jose
+T0440,2025-04-26,C0094,Keyboard,52.24,1,SUMMER20,Miami
+T0484,2025-04-26,C0209,Wireless Mouse,24.99,4,,Charlotte
+T0021,2025-04-27,C0040,Backpack,64.9,1,SAVE10,Nashville
+T0194,2025-04-27,C0202,USB-C Cable,13.75,2,,Portland
+T0445,2025-04-27,C0137,Notebook Set,16.5,1,,Atlanta
+T0514,2025-04-28,C0175,Desk Lamp,38.0,3,,San Antonio
+T0086,2025-04-29,C0218,Running Shoes,93.45,2,SUMMER20,Philadelphia
+T0319,2025-04-29,C0203,Water Bottle,20.99,2,SAVE10,New York
+T0048,2025-04-30,C0114,Keyboard,54.99,2,,San Diego
+T0273,2025-04-30,C0157,Keyboard,54.99,1,,Philadelphia
+T0022,2025-05-01,C0126,Travel Organizer,27.5,4,,Houston
+T0025,2025-05-01,C0023,Notebook Set,14.25,1,WELCOME15,Boston
+T0037,2025-05-01,C0062,USB-C Cable,13.75,1,SAVE10,Los Angeles
+T0533,2025-05-02,C0006,Backpack,61.95,1,,Dallas
+T0344,2025-05-04,C0034,Travel Organizer,27.5,1,SAVE10,Dallas
+T0560,2025-05-05,C0059,Wireless Mouse,24.99,2,,Seattle
+T0089,2025-05-06,C0194,Backpack,64.9,2,,Dallas
+T0001,2025-05-07,C0075,Yoga Mat,34.5,2,,Miami
+T0027,2025-05-08,C0079,Bluetooth Speaker,49.95,1,,Austin
+T0409,2025-05-08,C0025,Running Shoes,97.9,2,,Denver
+T0543,2025-05-08,C0060,Notebook Set,15.0,1,SAVE10,Nashville
+T0011,2025-05-09,C0083,T-Shirt,24.2,1,,San Jose
+T0115,2025-05-09,C0227,Notebook Set,15.0,3,SAVE10,San Antonio
+T0142,2025-05-10,C0222,Bluetooth Speaker,47.45,1,,Minneapolis
+T0149,2025-05-10,C0234,Wireless Mouse,24.99,2,,Seattle
+T0324,2025-05-10,C0151,USB-C Cable,13.75,2,,San Diego
+T0461,2025-05-10,C0042,Yoga Mat,34.5,1,,Philadelphia
+T0271,2025-05-11,C0136,Laptop Stand,39.9,1,,Chicago
+T0315,2025-05-11,C0079,USB-C Cable,12.5,3,,Philadelphia
+T0144,2025-05-12,C0175,Bluetooth Speaker,49.95,2,SAVE10,San Jose
+T0572,2025-05-12,C0010,Running Shoes,89.0,3,,Austin
+T0065,2025-05-13,C0071,Water Bottle,20.99,3,,Portland
+T0198,2025-05-13,C0154,Portable Charger,45.0,1,,Portland
+T0598,2025-05-13,C0068,Notebook Set,14.25,2,,Miami
+T0165,2025-05-14,C0152,Portable Charger,45.0,3,,Denver
+T0216,2025-05-15,C0041,Phone Case,16.62,1,WELCOME15,Chicago
+T0512,2025-05-15,C0212,Coffee Mug,13.95,2,,Houston
+T0540,2025-05-15,C0219,Travel Organizer,27.5,4,WELCOME15,Dallas
+T0207,2025-05-16,C0112,Travel Organizer,27.5,3,,Minneapolis
+T0392,2025-05-16,C0150,Running Shoes,89.0,1,,San Antonio
+T0127,2025-05-17,C0067,Travel Organizer,30.25,1,,New York
+T0525,2025-05-17,C0022,Yoga Mat,34.5,3,,Los Angeles
+T0321,2025-05-19,C0067,Bluetooth Speaker,49.95,1,SAVE10,Atlanta
+T0234,2025-05-21,C0021,Travel Organizer,26.12,2,SAVE10,San Jose
+T0487,2025-05-21,C0181,Coffee Mug,15.35,1,,Nashville
+T0439,2025-05-23,C0091,Keyboard,54.99,2,SAVE10,Los Angeles
+T0434,2025-05-24,C0037,Coffee Mug,13.95,1,,Philadelphia
+T0213,2025-05-25,C0218,Portable Charger,47.25,1,,Houston
+T0376,2025-05-25,C0113,Backpack,59.0,5,,Dallas
+T0041,2025-05-26,C0018,Coffee Mug,15.35,3,,Miami
+T0287,2025-05-26,C0094,Notebook Set,16.5,1,,Los Angeles
+T0217,2025-05-27,C0094,Travel Organizer,27.5,2,,Nashville
+T0254,2025-05-27,C0068,Bluetooth Speaker,49.95,1,FREESHIP,New York
+T0355,2025-05-27,C0208,Headphones,79.99,1,,Denver
+T0387,2025-05-27,C0056,Running Shoes,89.0,1,,Boston
+T0504,2025-05-27,C0219,Desk Lamp,38.0,3,,Boston
+T0443,2025-05-28,C0079,Travel Organizer,26.12,1,FREESHIP,New York
+T0489,2025-05-28,C0008,Yoga Mat,32.77,1,SAVE10,Boston
+T0045,2025-05-29,C0130,Phone Case,19.24,1,,San Antonio
+T0300,2025-05-29,C0029,Headphones,79.99,2,,Portland
+T0458,2025-05-29,C0099,Running Shoes,89.0,2,SAVE10,New York
+T0311,2025-05-30,C0143,Portable Charger,45.0,1,,Miami
+T0431,2025-05-30,C0099,Yoga Mat,34.5,3,,Houston
+T0444,2025-05-31,C0145,T-Shirt,22.0,1,,Boston
+T0494,2025-05-31,C0185,Wireless Mouse,24.99,1,,Seattle
+T0403,2025-06-03,C0209,Water Bottle,19.99,1,,Philadelphia
+T0503,2025-06-04,C0148,Travel Organizer,30.25,2,SUMMER20,Miami
+T0582,2025-06-04,C0060,Laptop Stand,42.0,1,,Atlanta
+T0024,2025-06-05,C0056,Wireless Mouse,24.99,1,SAVE10,Austin
+T0123,2025-06-05,C0078,Desk Lamp,36.1,1,,Phoenix
+T0159,2025-06-05,C0017,Water Bottle,19.99,2,,Atlanta
+T0564,2025-06-07,C0220,Travel Organizer,27.5,1,,Portland
+T0102,2025-06-10,C0083,Keyboard,57.74,2,WELCOME15,Chicago
+T0261,2025-06-10,C0007,Desk Lamp,41.8,3,SAVE10,Phoenix
+T0391,2025-06-10,C0052,Yoga Mat,34.5,1,,Austin
+T0202,2025-06-12,C0137,Backpack,64.9,2,,Seattle
+T0067,2025-06-13,C0026,T-Shirt,22.0,1,,Los Angeles
+T0191,2025-06-13,C0095,Notebook Set,15.0,2,,Atlanta
+T0196,2025-06-13,C0198,Notebook Set,15.0,1,,Boston
+T0201,2025-06-13,C0216,Coffee Mug,13.95,1,,Los Angeles
+T0467,2025-06-13,C0184,Desk Lamp,39.9,5,FREESHIP,Austin
+T0122,2025-06-14,C0137,Laptop Stand,46.2,3,SAVE10,San Diego
+T0128,2025-06-14,C0154,Running Shoes,89.0,1,,Minneapolis
+T0189,2025-06-14,C0173,Notebook Set,16.5,1,WELCOME15,Boston
+T0365,2025-06-14,C0194,USB-C Cable,12.5,5,WELCOME15,Denver
+T0558,2025-06-14,C0050,Sunglasses,36.75,1,SUMMER20,San Jose
+T0158,2025-06-16,C0057,Bluetooth Speaker,49.95,3,,Dallas
+T0176,2025-06-16,C0034,Bluetooth Speaker,47.45,3,,Dallas
+T0347,2025-06-16,C0149,Laptop Stand,44.1,2,SAVE10,Austin
+T0483,2025-06-16,C0116,Travel Organizer,27.5,1,SAVE10,Austin
+T0522,2025-06-16,C0223,Running Shoes,97.9,2,,Nashville
+T0257,2025-06-18,C0168,Keyboard,60.49,2,,Minneapolis
+T0527,2025-06-19,C0114,Notebook Set,16.5,1,WELCOME15,Houston
+T0593,2025-06-19,C0233,Sunglasses,35.0,1,,Boston
+T0253,2025-06-20,C0130,Backpack,56.05,2,,Portland
+T0589,2025-06-20,C0037,Coffee Mug,14.65,2,,Miami
+T0026,2025-06-21,C0088,Travel Organizer,27.5,2,SAVE10,Phoenix
+T0464,2025-06-22,C0210,Portable Charger,45.0,2,,Los Angeles
+T0509,2025-06-22,C0037,Phone Case,19.24,3,,Philadelphia
+T0546,2025-06-22,C0233,Notebook Set,15.0,1,FREESHIP,Dallas
+T0575,2025-06-22,C0213,Notebook Set,15.0,3,,San Diego
+T0157,2025-06-23,C0063,Wireless Mouse,24.99,1,WELCOME15,Seattle
+T0292,2025-06-23,C0164,Yoga Mat,32.77,1,,Los Angeles
+T0468,2025-06-23,C0211,Bluetooth Speaker,52.45,2,,Phoenix
+T0569,2025-06-23,C0239,Notebook Set,15.75,2,,Dallas
+T0277,2025-06-24,C0125,Travel Organizer,27.5,1,,Miami
+T0007,2025-06-25,C0201,Sunglasses,38.5,4,SAVE10,Dallas
+T0500,2025-06-25,C0231,Notebook Set,15.0,1,,New York
+T0193,2025-06-26,C0045,Coffee Mug,13.95,1,WELCOME15,Miami
+T0061,2025-06-28,C0042,Bluetooth Speaker,47.45,1,,Denver
+T0278,2025-06-29,C0085,Coffee Mug,13.95,1,,Charlotte
+T0375,2025-06-29,C0207,Wireless Mouse,24.99,1,,Chicago
+T0250,2025-06-30,C0188,Notebook Set,15.0,1,SAVE10,Dallas
+T0515,2025-07-01,C0092,Coffee Mug,13.95,1,,Nashville
+T0241,2025-07-03,C0055,Running Shoes,84.55,2,SAVE10,Minneapolis
+T0015,2025-07-04,C0104,T-Shirt,22.0,1,,Nashville
+T0019,2025-07-04,C0213,Wireless Mouse,26.24,4,,Houston
+T0076,2025-07-04,C0109,Backpack,64.9,1,,Minneapolis
+T0183,2025-07-04,C0013,USB-C Cable,12.5,2,SUMMER20,San Antonio
+T0091,2025-07-05,C0089,Notebook Set,15.75,1,,Chicago
+T0073,2025-07-06,C0045,Sunglasses,35.0,1,,Miami
+T0485,2025-07-07,C0109,Keyboard,54.99,3,SAVE10,San Diego
+T0548,2025-07-07,C0167,USB-C Cable,11.88,1,,Phoenix
+T0457,2025-07-08,C0047,T-Shirt,22.0,1,FREESHIP,Nashville
+T0591,2025-07-08,C0054,Backpack,56.05,2,,San Antonio
+T0177,2025-07-09,C0138,Coffee Mug,13.95,5,,San Jose
+T0138,2025-07-10,C0100,Desk Lamp,38.0,1,,San Jose
+T0397,2025-07-10,C0153,Sunglasses,33.25,1,,Seattle
+T0266,2025-07-11,C0195,Bluetooth Speaker,49.95,3,FREESHIP,San Jose
+T0281,2025-07-11,C0011,Laptop Stand,42.0,4,,Portland
+T0340,2025-07-11,C0077,Keyboard,54.99,2,,Denver
+T0554,2025-07-11,C0193,Desk Lamp,41.8,3,,Dallas
+T0272,2025-07-12,C0137,T-Shirt,20.9,1,,Phoenix
+T0307,2025-07-12,C0072,Sunglasses,35.0,1,FREESHIP,Boston
+T0082,2025-07-13,C0046,Yoga Mat,36.23,3,,Portland
+T0320,2025-07-16,C0054,Notebook Set,15.0,1,,Houston
+T0488,2025-07-16,C0124,Wireless Mouse,27.49,2,,San Antonio
+T0547,2025-07-17,C0029,Desk Lamp,38.0,3,WELCOME15,Austin
+T0031,2025-07-18,C0036,Backpack,59.0,1,SUMMER20,Charlotte
+T0323,2025-07-18,C0075,Yoga Mat,34.5,1,WELCOME15,Houston
+T0349,2025-07-18,C0022,Phone Case,17.49,1,,Minneapolis
+T0219,2025-07-20,C0138,Water Bottle,19.99,2,WELCOME15,Austin
+T0231,2025-07-20,C0132,Wireless Mouse,24.99,4,,San Antonio
+T0114,2025-07-21,C0173,Desk Lamp,38.0,1,,Miami
+T0083,2025-07-22,C0078,Yoga Mat,32.77,2,,Portland
+T0160,2025-07-22,C0049,USB-C Cable,12.5,1,,Chicago
+T0267,2025-07-22,C0043,Keyboard,54.99,1,,Boston
+T0420,2025-07-22,C0132,Coffee Mug,13.25,1,,Charlotte
+T0338,2025-07-23,C0033,Bluetooth Speaker,49.95,2,WELCOME15,Philadelphia
+T0416,2025-07-23,C0097,Wireless Mouse,24.99,2,,Denver
+T0534,2025-07-23,C0035,Phone Case,19.24,1,,New York
+T0447,2025-07-24,C0094,Running Shoes,89.0,1,,Chicago
+T0511,2025-07-24,C0141,Headphones,79.99,3,,Austin
+T0090,2025-07-26,C0159,Coffee Mug,13.95,2,,Charlotte
+T0529,2025-07-26,C0096,Notebook Set,15.75,1,,San Antonio
+T0023,2025-07-27,C0055,Notebook Set,16.5,1,WELCOME15,Philadelphia
+T0245,2025-07-27,C0046,Keyboard,54.99,1,,Portland
+T0346,2025-07-27,C0186,Wireless Mouse,24.99,1,FREESHIP,Philadelphia
+T0432,2025-07-28,C0172,Travel Organizer,27.5,5,,New York
+T0175,2025-07-29,C0010,Notebook Set,15.0,2,SAVE10,Charlotte
+T0293,2025-07-29,C0152,Bluetooth Speaker,49.95,2,,Houston
+T0195,2025-07-30,C0166,Sunglasses,35.0,1,,Philadelphia
+T0318,2025-07-30,C0147,Travel Organizer,30.25,1,,Charlotte
+T0536,2025-07-30,C0009,Keyboard,54.99,1,SUMMER20,Miami
+T0075,2025-07-31,C0201,Sunglasses,35.0,2,SUMMER20,San Jose
+T0097,2025-08-01,C0183,Wireless Mouse,26.24,1,,Portland
+T0145,2025-08-03,C0099,Coffee Mug,13.95,2,WELCOME15,Seattle
+T0317,2025-08-03,C0118,Phone Case,19.24,2,SAVE10,Philadelphia
+T0331,2025-08-03,C0137,Keyboard,52.24,2,SAVE10,Charlotte
+T0414,2025-08-07,C0040,Desk Lamp,38.0,3,SAVE10,Austin
+T0430,2025-08-07,C0051,Backpack,59.0,2,,New York
+T0531,2025-08-07,C0207,Sunglasses,35.0,1,,Minneapolis
+T0373,2025-08-08,C0122,Backpack,59.0,3,,Boston
+T0532,2025-08-08,C0147,Bluetooth Speaker,49.95,5,,Chicago
+T0583,2025-08-08,C0195,Notebook Set,15.0,1,,Austin
+T0179,2025-08-09,C0081,Notebook Set,14.25,1,,Portland
+T0428,2025-08-09,C0200,Backpack,61.95,1,SAVE10,Atlanta
+T0465,2025-08-09,C0026,Wireless Mouse,24.99,1,SAVE10,Philadelphia
+T0084,2025-08-10,C0199,Notebook Set,15.0,1,SUMMER20,San Antonio
+T0579,2025-08-10,C0081,Laptop Stand,42.0,2,,Austin
+T0596,2025-08-11,C0113,Backpack,59.0,1,,San Antonio
+T0378,2025-08-13,C0210,Headphones,79.99,1,,Boston
+T0406,2025-08-13,C0151,Desk Lamp,38.0,2,,Seattle
+T0251,2025-08-14,C0174,Keyboard,54.99,1,SUMMER20,Atlanta
+T0364,2025-08-14,C0154,Backpack,64.9,4,FREESHIP,Austin
+T0452,2025-08-15,C0117,Coffee Mug,13.95,2,SAVE10,Atlanta
+T0098,2025-08-16,C0160,T-Shirt,22.0,1,,Chicago
+T0367,2025-08-16,C0151,USB-C Cable,13.75,2,,Charlotte
+T0418,2025-08-16,C0123,USB-C Cable,12.5,1,,Boston
+T0222,2025-08-17,C0055,Sunglasses,35.0,3,FREESHIP,Philadelphia
+T0117,2025-08-18,C0089,USB-C Cable,11.88,1,SUMMER20,Nashville
+T0474,2025-08-18,C0199,Phone Case,19.24,2,SAVE10,Los Angeles
+T0366,2025-08-19,C0030,Coffee Mug,13.95,1,,Denver
+T0587,2025-08-19,C0233,Headphones,75.99,1,,Austin
+T0094,2025-08-20,C0103,Travel Organizer,27.5,1,,Atlanta
+T0275,2025-08-21,C0003,Laptop Stand,42.0,2,,Boston
+T0110,2025-08-22,C0103,Notebook Set,14.25,3,WELCOME15,Boston
+T0568,2025-08-23,C0104,Yoga Mat,34.5,2,,Seattle
+T0079,2025-08-24,C0053,Sunglasses,33.25,1,,Philadelphia
+T0174,2025-08-24,C0240,Water Bottle,18.99,1,,Seattle
+T0517,2025-08-24,C0162,Notebook Set,14.25,3,,Portland
+T0530,2025-08-24,C0099,Running Shoes,84.55,2,,Atlanta
+T0360,2025-08-25,C0041,USB-C Cable,13.12,1,SAVE10,Houston
+T0450,2025-08-26,C0217,T-Shirt,23.1,1,,Minneapolis
+T0265,2025-08-27,C0222,Bluetooth Speaker,49.95,2,SAVE10,Miami
+T0528,2025-08-28,C0091,Bluetooth Speaker,52.45,1,,Denver
+T0325,2025-08-30,C0019,Keyboard,60.49,2,SAVE10,Los Angeles
+T0358,2025-08-30,C0085,Bluetooth Speaker,49.95,1,,Minneapolis
+T0168,2025-08-31,C0161,Sunglasses,38.5,4,,Los Angeles
+T0269,2025-08-31,C0010,Coffee Mug,14.65,1,,Dallas
+T0111,2025-09-01,C0109,Backpack,64.9,1,,Charlotte
+T0600,2025-09-02,C0113,Desk Lamp,38.0,2,,Charlotte
+T0129,2025-09-03,C0049,Yoga Mat,37.95,1,,Philadelphia
+T0348,2025-09-03,C0226,T-Shirt,22.0,1,,Portland
+T0359,2025-09-03,C0092,Water Bottle,19.99,2,,Atlanta
+T0285,2025-09-04,C0141,Travel Organizer,27.5,3,,Atlanta
+T0565,2025-09-04,C0149,Sunglasses,35.0,4,,New York
+T0573,2025-09-04,C0186,Travel Organizer,30.25,4,,Portland
+T0038,2025-09-07,C0010,Notebook Set,15.75,1,,San Diego
+T0186,2025-09-07,C0233,Sunglasses,36.75,3,,Dallas
+T0268,2025-09-08,C0161,T-Shirt,22.0,1,FREESHIP,San Jose
+T0380,2025-09-08,C0057,Desk Lamp,39.9,1,SUMMER20,San Antonio
+T0535,2025-09-08,C0147,USB-C Cable,12.5,1,WELCOME15,San Antonio
+T0242,2025-09-09,C0081,Water Bottle,19.99,2,,Miami
+T0264,2025-09-09,C0239,Portable Charger,45.0,1,,Miami
+T0309,2025-09-09,C0043,Sunglasses,33.25,1,,Seattle
+T0164,2025-09-10,C0195,T-Shirt,23.1,1,SUMMER20,Nashville
+T0151,2025-09-11,C0002,Headphones,83.99,4,,Minneapolis
+T0184,2025-09-11,C0186,USB-C Cable,12.5,2,,Miami
+T0260,2025-09-11,C0168,Portable Charger,45.0,1,,Austin
+T0255,2025-09-12,C0099,Sunglasses,33.25,2,,Austin
+T0104,2025-09-13,C0208,Wireless Mouse,24.99,3,SUMMER20,Phoenix
+T0030,2025-09-14,C0123,Laptop Stand,42.0,4,,Charlotte
+T0362,2025-09-15,C0240,Notebook Set,15.0,2,FREESHIP,Houston
+T0388,2025-09-15,C0234,Water Bottle,19.99,1,,Boston
+T0020,2025-09-16,C0158,Keyboard,54.99,2,,Portland
+T0382,2025-09-16,C0067,Desk Lamp,38.0,2,,San Diego
+T0441,2025-09-16,C0231,Coffee Mug,15.35,4,WELCOME15,Atlanta
+T0448,2025-09-16,C0240,Keyboard,52.24,4,FREESHIP,New York
+T0153,2025-09-17,C0078,Laptop Stand,42.0,1,,Atlanta
+T0290,2025-09-17,C0234,Notebook Set,16.5,1,,Atlanta
+T0508,2025-09-17,C0007,Water Bottle,20.99,2,,San Jose
+T0544,2025-09-18,C0018,Portable Charger,45.0,1,,Boston
+T0212,2025-09-21,C0168,Notebook Set,16.5,1,,Seattle
+T0223,2025-09-21,C0105,Backpack,59.0,1,,Denver
+T0058,2025-09-22,C0070,Notebook Set,15.75,2,,Austin
+T0133,2025-09-22,C0227,Headphones,87.99,2,,Phoenix
+T0501,2025-09-22,C0112,Coffee Mug,15.35,2,,San Jose
+T0555,2025-09-22,C0100,Travel Organizer,27.5,1,,Denver
+T0570,2025-09-22,C0158,Desk Lamp,38.0,1,WELCOME15,Los Angeles
+T0042,2025-09-23,C0031,Laptop Stand,42.0,1,,Boston
+T0215,2025-09-23,C0080,Desk Lamp,38.0,1,SUMMER20,Seattle
+T0282,2025-09-25,C0111,T-Shirt,22.0,1,,Portland
+T0368,2025-09-25,C0211,Notebook Set,15.0,4,,Phoenix
+T0389,2025-09-25,C0170,Phone Case,17.49,1,,Los Angeles
+T0182,2025-09-26,C0067,Phone Case,17.49,1,FREESHIP,Dallas
+T0118,2025-09-27,C0158,T-Shirt,22.0,2,,San Diego
+T0252,2025-09-27,C0193,USB-C Cable,12.5,1,,Chicago
+T0433,2025-09-27,C0117,Coffee Mug,14.65,2,,Denver
+T0541,2025-09-27,C0127,Coffee Mug,14.65,1,SAVE10,Seattle
+T0181,2025-09-28,C0106,Bluetooth Speaker,54.95,1,FREESHIP,Atlanta
+T0294,2025-09-28,C0080,Yoga Mat,34.5,2,,Los Angeles
+T0014,2025-09-29,C0004,Bluetooth Speaker,49.95,4,,Atlanta
+T0199,2025-09-30,C0103,USB-C Cable,12.5,1,,Miami
+T0103,2025-10-02,C0126,Portable Charger,45.0,1,WELCOME15,Denver
+T0162,2025-10-02,C0166,Wireless Mouse,24.99,1,,Miami
+T0415,2025-10-02,C0142,Wireless Mouse,23.74,1,,Boston
+T0557,2025-10-03,C0016,Coffee Mug,15.35,2,,Charlotte
+T0106,2025-10-04,C0062,Water Bottle,19.99,3,,Chicago
+T0249,2025-10-04,C0216,Sunglasses,35.0,1,,Denver
+T0352,2025-10-05,C0107,Sunglasses,35.0,1,,Nashville
+T0377,2025-10-05,C0161,Coffee Mug,13.95,1,,Nashville
+T0526,2025-10-05,C0087,Backpack,59.0,3,,Houston
+T0049,2025-10-06,C0179,Yoga Mat,34.5,3,,Phoenix
+T0093,2025-10-06,C0077,Running Shoes,93.45,2,,Minneapolis
+T0105,2025-10-06,C0109,Backpack,59.0,1,,Minneapolis
+T0405,2025-10-06,C0139,Travel Organizer,27.5,1,,Atlanta
+T0435,2025-10-07,C0127,Desk Lamp,38.0,1,,Houston
+T0477,2025-10-07,C0044,Portable Charger,45.0,2,,Phoenix
+T0221,2025-10-08,C0152,Backpack,59.0,1,,San Antonio
+T0411,2025-10-08,C0097,Coffee Mug,14.65,1,,Los Angeles
+T0185,2025-10-09,C0240,Sunglasses,38.5,1,,Philadelphia
+T0471,2025-10-09,C0015,USB-C Cable,12.5,1,SUMMER20,Boston
+T0148,2025-10-10,C0221,Desk Lamp,38.0,1,,San Diego
+T0046,2025-10-11,C0236,Running Shoes,89.0,2,,Chicago
+T0437,2025-10-11,C0032,Yoga Mat,32.77,1,,Los Angeles
+T0005,2025-10-13,C0161,Phone Case,18.36,3,,Nashville
+T0126,2025-10-14,C0017,Backpack,64.9,3,FREESHIP,Portland
+T0563,2025-10-14,C0020,Yoga Mat,34.5,1,,Phoenix
+T0459,2025-10-15,C0097,Water Bottle,19.99,2,,Charlotte
+T0316,2025-10-18,C0072,Desk Lamp,38.0,1,,San Diego
+T0064,2025-10-19,C0238,T-Shirt,24.2,2,SAVE10,Nashville
+T0429,2025-10-19,C0229,T-Shirt,22.0,3,,Dallas
+T0206,2025-10-20,C0062,Wireless Mouse,24.99,1,SAVE10,Houston
+T0178,2025-10-22,C0127,Notebook Set,15.75,1,,San Jose
+T0436,2025-10-22,C0203,Desk Lamp,41.8,1,SAVE10,New York
+T0479,2025-10-22,C0214,Desk Lamp,38.0,2,,San Diego
+T0070,2025-10-23,C0145,Sunglasses,35.0,1,SAVE10,Boston
+T0135,2025-10-23,C0171,Laptop Stand,42.0,2,,San Diego
+T0146,2025-10-23,C0115,Wireless Mouse,24.99,2,,San Jose
+T0470,2025-10-24,C0080,Water Bottle,19.99,1,,Austin
+T0003,2025-10-25,C0015,Sunglasses,35.0,2,,Los Angeles
+T0131,2025-10-26,C0215,T-Shirt,22.0,1,,Portland
+T0599,2025-10-26,C0204,Yoga Mat,37.95,2,FREESHIP,Dallas
+T0013,2025-10-27,C0111,Keyboard,54.99,2,SAVE10,Portland
+T0580,2025-10-27,C0018,Running Shoes,84.55,2,,Seattle
+T0597,2025-10-27,C0154,Notebook Set,14.25,1,SUMMER20,San Antonio
+T0491,2025-10-28,C0081,Portable Charger,45.0,4,,Seattle
+T0107,2025-10-29,C0220,Headphones,79.99,3,,New York
+T0197,2025-10-29,C0064,Travel Organizer,30.25,1,,Minneapolis
+T0492,2025-10-29,C0028,Notebook Set,16.5,1,,San Diego
+T0592,2025-10-29,C0018,Portable Charger,45.0,3,,Chicago
+T0236,2025-10-30,C0219,Keyboard,57.74,1,,Austin
+T0327,2025-10-31,C0002,Water Bottle,19.99,2,,Atlanta
+T0496,2025-10-31,C0016,Desk Lamp,38.0,2,WELCOME15,Los Angeles
+T0081,2025-11-01,C0111,USB-C Cable,12.5,5,,Houston
+T0006,2025-11-02,C0039,Keyboard,57.74,1,,Portland
+T0400,2025-11-03,C0057,Portable Charger,45.0,1,,San Jose
+T0068,2025-11-04,C0172,Laptop Stand,42.0,2,SUMMER20,Miami
+T0150,2025-11-04,C0240,Running Shoes,93.45,1,,San Antonio
+T0166,2025-11-04,C0182,Keyboard,54.99,1,SUMMER20,Boston
+T0310,2025-11-04,C0173,USB-C Cable,12.5,3,,San Jose
+T0059,2025-11-05,C0064,Wireless Mouse,27.49,2,,San Diego
+T0345,2025-11-06,C0156,Travel Organizer,27.5,1,,Austin
+T0096,2025-11-07,C0217,Coffee Mug,13.25,2,,Houston
+T0139,2025-11-07,C0001,Water Bottle,20.99,2,,Atlanta
+T0472,2025-11-07,C0157,Backpack,59.0,1,FREESHIP,Houston
+T0246,2025-11-08,C0185,Sunglasses,35.0,4,SAVE10,Miami
+T0303,2025-11-08,C0117,Running Shoes,89.0,3,,Atlanta
+T0125,2025-11-10,C0037,Keyboard,54.99,3,,Denver
+T0080,2025-11-11,C0217,Phone Case,19.24,1,SAVE10,Nashville
+T0192,2025-11-11,C0143,Coffee Mug,13.95,1,,Charlotte
+T0586,2025-11-11,C0145,Phone Case,19.24,2,FREESHIP,Houston
+T0237,2025-11-12,C0171,Running Shoes,84.55,2,FREESHIP,Boston
+T0143,2025-11-13,C0173,Running Shoes,89.0,1,,New York
+T0034,2025-11-14,C0072,Wireless Mouse,26.24,3,FREESHIP,Minneapolis
+T0351,2025-11-14,C0095,Travel Organizer,27.5,1,SUMMER20,Boston
+T0350,2025-11-15,C0175,Notebook Set,14.25,3,SUMMER20,Los Angeles
+T0069,2025-11-17,C0118,Running Shoes,89.0,2,,Minneapolis
+T0137,2025-11-17,C0036,Backpack,61.95,2,WELCOME15,Nashville
+T0155,2025-11-17,C0235,Keyboard,57.74,1,WELCOME15,Nashville
+T0170,2025-11-17,C0187,Running Shoes,89.0,1,,San Antonio
+T0232,2025-11-17,C0068,Phone Case,17.49,2,,Seattle
+T0498,2025-11-17,C0105,Yoga Mat,34.5,5,,Philadelphia
+T0274,2025-11-18,C0006,Keyboard,52.24,2,WELCOME15,Denver
+T0276,2025-11-18,C0032,Laptop Stand,42.0,3,,Philadelphia
+T0224,2025-11-19,C0086,Sunglasses,35.0,4,,San Antonio
+T0270,2025-11-19,C0093,Portable Charger,49.5,2,,Nashville
+T0424,2025-11-19,C0177,Water Bottle,20.99,1,,Atlanta
+T0497,2025-11-19,C0103,Yoga Mat,32.77,1,,Chicago
+T0288,2025-11-23,C0216,Running Shoes,84.55,1,,Denver
+T0334,2025-11-23,C0065,Running Shoes,84.55,1,SAVE10,Miami
+T0549,2025-11-24,C0090,Yoga Mat,37.95,2,,Los Angeles
+T0456,2025-11-25,C0090,Yoga Mat,34.5,2,,Boston
+T0040,2025-11-26,C0129,Sunglasses,33.25,1,FREESHIP,Charlotte
+T0109,2025-11-26,C0110,Keyboard,60.49,1,,Seattle
+T0227,2025-11-27,C0067,Backpack,59.0,1,,Phoenix
+T0263,2025-11-29,C0204,Phone Case,17.49,2,,Atlanta
+T0476,2025-11-29,C0138,Travel Organizer,27.5,1,,Boston
+T0372,2025-11-30,C0078,Bluetooth Speaker,52.45,2,,Denver
+T0401,2025-11-30,C0039,USB-C Cable,12.5,1,SAVE10,Phoenix
+T0119,2025-12-01,C0233,Wireless Mouse,27.49,1,,Houston
+T0566,2025-12-01,C0013,Bluetooth Speaker,49.95,4,WELCOME15,New York
+T0404,2025-12-03,C0029,Bluetooth Speaker,49.95,3,SUMMER20,Seattle
+T0033,2025-12-05,C0180,Portable Charger,45.0,2,,Atlanta
+T0156,2025-12-05,C0098,Laptop Stand,42.0,2,,Chicago
+T0302,2025-12-05,C0153,Yoga Mat,34.5,1,,Minneapolis
+T0383,2025-12-05,C0080,T-Shirt,20.9,4,,Denver
+T0567,2025-12-06,C0028,Wireless Mouse,24.99,2,SUMMER20,New York
+T0108,2025-12-08,C0170,Laptop Stand,42.0,1,FREESHIP,Los Angeles
+T0239,2025-12-08,C0013,Portable Charger,49.5,2,,New York
+T0329,2025-12-08,C0118,Bluetooth Speaker,49.95,1,,Chicago
+T0518,2025-12-08,C0166,T-Shirt,22.0,2,,Chicago
+T0130,2025-12-10,C0126,Notebook Set,15.75,1,,Dallas
+T0381,2025-12-10,C0086,Notebook Set,15.0,4,SUMMER20,Charlotte
+T0473,2025-12-11,C0160,Phone Case,17.49,4,,Atlanta
+T0578,2025-12-11,C0205,Yoga Mat,37.95,2,,Chicago
+T0304,2025-12-12,C0217,Keyboard,54.99,1,,Minneapolis
+T0399,2025-12-12,C0016,Headphones,79.99,2,,New York
+T0044,2025-12-13,C0173,Travel Organizer,28.88,1,,San Diego
+T0167,2025-12-13,C0230,T-Shirt,22.0,1,FREESHIP,Denver
+T0240,2025-12-13,C0182,USB-C Cable,13.12,2,,Los Angeles
+T0427,2025-12-13,C0196,Yoga Mat,34.5,2,,Chicago
+T0008,2025-12-14,C0045,Desk Lamp,39.9,1,,Atlanta
+T0054,2025-12-15,C0195,Travel Organizer,27.5,1,SAVE10,Portland
+T0057,2025-12-15,C0167,Keyboard,60.49,3,SUMMER20,Portland
+T0055,2025-12-16,C0171,Headphones,79.99,1,SAVE10,San Jose
+T0095,2025-12-17,C0099,Desk Lamp,38.0,1,,Austin
+T0188,2025-12-17,C0228,Desk Lamp,38.0,1,SAVE10,Dallas
+T0551,2025-12-17,C0080,Bluetooth Speaker,54.95,1,,Chicago
+T0152,2025-12-18,C0078,USB-C Cable,13.75,1,WELCOME15,Denver
+T0330,2025-12-21,C0235,Portable Charger,42.75,1,,Chicago
+T0180,2025-12-22,C0209,Sunglasses,35.0,1,,Miami
+T0235,2025-12-22,C0176,Headphones,79.99,1,,Denver
+T0463,2025-12-22,C0163,Water Bottle,19.99,1,,Austin
+T0214,2025-12-24,C0056,Notebook Set,15.75,1,,Boston
+T0542,2025-12-24,C0158,Portable Charger,45.0,1,,San Antonio
+T0052,2025-12-25,C0199,Yoga Mat,32.77,1,,Boston
+T0112,2025-12-25,C0103,Sunglasses,36.75,1,,Phoenix
+T0305,2025-12-25,C0110,T-Shirt,22.0,2,,Atlanta
+T0036,2025-12-26,C0105,T-Shirt,22.0,1,,Boston
+T0071,2025-12-26,C0006,Portable Charger,45.0,2,FREESHIP,Miami
+T0187,2025-12-26,C0037,Desk Lamp,39.9,1,,Minneapolis
+T0343,2025-12-26,C0216,Coffee Mug,13.95,1,,Atlanta
+T0341,2025-12-27,C0218,Coffee Mug,13.95,3,,Boston
+T0407,2025-12-27,C0105,Yoga Mat,34.5,2,,Denver
+T0499,2025-12-27,C0026,Headphones,75.99,1,,Phoenix
+T0209,2025-12-28,C0052,Desk Lamp,36.1,1,,Chicago
+T0322,2025-12-28,C0135,Bluetooth Speaker,52.45,1,,Chicago
+T0451,2025-12-28,C0120,Laptop Stand,44.1,1,SAVE10,Dallas
+T0510,2025-12-28,C0220,Notebook Set,15.0,3,,San Antonio
+T0393,2025-12-29,C0209,Backpack,64.9,3,WELCOME15,Chicago
+T0417,2025-12-29,C0166,Yoga Mat,32.77,1,,San Antonio
+T0502,2025-12-29,C0140,Portable Charger,45.0,1,,Seattle
+T0299,2025-12-30,C0070,Coffee Mug,13.95,2,,Philadelphia
+T0230,2025-12-31,C0067,Travel Organizer,27.5,3,,San Jose
